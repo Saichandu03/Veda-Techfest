@@ -11,7 +11,7 @@ From interactive events and real-time coordination to smart registration systems
 
 ## 🌐 Live Demo
 
-**🔗 [Click here to view the live project](https://adityauniversity.in/veda2024)**
+**🔗 [Click here to view the live project](https://adityauniversity.in/veda2025)**
 
 ## 🎬 Vedio Demo
 
